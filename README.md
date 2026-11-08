@@ -9,7 +9,6 @@ C# · JavaScript · Python · C++ · Unity
 ### Games
 
 - [Asteroid-Rain-Game](https://github.com/GA2991/Asteroid-Rain-Game)
-- [Low-Res-Chronicles-Scripts](https://github.com/GA2991/Low-Res-Chronicles-Scripts)
 - [LowPolyCollectionLite](https://github.com/GA2991/LowPolyCollectionLite)
 
 ### Audio & MIDI
