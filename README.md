@@ -1,18 +1,18 @@
 ## Germán
 
-Experimento con distintas herramientas y lenguajes, con el foco en los videojuegos y, de forma esporádica, en herramientas de audio y MIDI.
+I experiment with different tools and languages, focusing on video games and, occasionally, on audio and MIDI tools.
 
-Ahora trabajo en Low-res Simulation, un juego 3D en primera persona con estética PS1.
+Currently working on Low-res Simulation, a first-person 3D game with a PS1 aesthetic.
 
 C# · JavaScript · Python · C++ · Unity
 
-### Juegos
+### Games
 
 - [Asteroid-Rain-Game](https://github.com/GA2991/Asteroid-Rain-Game)
 - [Low-Res-Chronicles-Scripts](https://github.com/GA2991/Low-Res-Chronicles-Scripts)
 - [LowPolyCollectionLite](https://github.com/GA2991/LowPolyCollectionLite)
 
-### Audio y MIDI
+### Audio & MIDI
 
 - [vst-library-fx-advisor](https://github.com/GA2991/vst-library-fx-advisor)
 - [ArduinoMidi](https://github.com/GA2991/ArduinoMidi)
